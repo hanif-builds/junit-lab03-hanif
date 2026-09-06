@@ -1,7 +1,11 @@
 com\university\lab\junit\lab03\StringUtil.class
+com\university\lab\helloworld\HelloWorld.class
+com\university\lab\junit\lab03\Calculator1.class
 com\university\lab\junit\lab03\BankAccount.class
 com\university\lab\junit\lab03\ShoppingCart.class
+com\university\lab\junit\lab03\BankAccountHomework.class
 com\university\lab\junit\lab03\JunitLab03.class
 com\university\lab\junit\lab03\TemperatureConverter.class
 ShoppingCart.class
+com\university\lab\junit\lab03\StringAnalyzer.class
 com\university\lab\junit\lab03\TimerUtil.class
